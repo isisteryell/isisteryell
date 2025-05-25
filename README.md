@@ -1,8 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Holla!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Greetings!&height=100&section=header"/>
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=&color=95F7DC&center=true&width=435&lines=Holla+Everyone+👋;I'm+Azhar" alt="Typing SVG" />
+</h1>
+
 <!-- <h1 align="center">Holla Everyone 👋</h1> -->
-<h3 align="center">I'm a competitive programmer and Data analyst</h3>
+<h3 align="center">A competitive programmer and data analyst</h3>
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isisteryell&label=Profile%20views&color=0e75b6&style=flat" alt="isisteryell" /> </p>
 
