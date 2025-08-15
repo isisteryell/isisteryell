@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **deep learning** projects
 
-- 🌱 I know **Python, Keras, Tensorflow, React, and many other skills**
+- 🌱 I know **Python, Scikit-Learn, Tensorflow, PyTorch, FastAPI and many other skills**
 
 - ⚡ Fun fact **I optimize my code and my character—both require regular updates😊**
 
