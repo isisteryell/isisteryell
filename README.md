@@ -31,7 +31,7 @@
 <a href="https://linkedin.com/in/md-azhar-maqsood-90aa47254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Azhar" height="30" width="40"/></a>
 <a href="https://www.codechef.com/users/sisteryelli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sisteryelli" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rokathena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rokathena" height="30" width="40" /></a>
-<a href="https://atcoder.jp/users/isisteryell" target="blank"><img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="rokathena" height="30" width="40" /></a>
+<a href="https://atcoder.jp/users/rokathena" target="blank"><img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="rokathena" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sisteryell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sisteryell" height="30" width="40" /></a>
 </p>
 
